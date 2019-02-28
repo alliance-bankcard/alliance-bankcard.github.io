@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Alliance Bankcard",
-    "currentPage": "store.html",
+    "currentPage": "become-an-agent.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -36,7 +36,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 107,
+    "uniqCompNum": 109,
     "versionPublish": "4.9.3",
     "screenshot": "screenshot.png",
     "favicon": "",
@@ -840,7 +840,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Our market consists of current businesses of all sizes, including retail, mail order, and internet. In addition every new business that opens is a prospective client for our services. \n<div>\n</div><div>The earning potential is commission and residual based, which can vary from $20,000 to $100,000+ based on your drive to succeed! We are seeking highly motivated self-starters that are capable of working independently to market our services. The perfect candidate will be an individual who not only sets goals, but also crushes them! This person will have the desire to make the kind of money they are worth. \n</div><div>\n</div><div>​Fantastic opportunity to be your own boss. \n</div><div>Unlimited earnings potential with lifetime residual income. \n</div><div>You choose how much time you put in; full or part time. \n</div><div>Training provided at no cost to you; ongoing support provided.</div></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article>Our market consists of current businesses of all sizes, including retail, mail order, and internet. In addition every new business that opens is a prospective client for our services. \n<div>\n</div><div>The earning potential is commission and residual based, which can vary from $20,000 to $100,000+ based on your drive to succeed! We are seeking highly motivated self-starters that are capable of working independently to market our services. The perfect candidate will be an individual who not only sets goals, but also crushes them! This person will have the desire to make the kind of money they are worth. \n</div><div>\n</div><div>​Fantastic opportunity to be your own boss. \n</div><div>Unlimited earnings potential with lifetime residual income. \n</div><div>You choose how much time you put in; full or part time. \n</div><div>Training provided at no cost to you; ongoing support provided.</div></div>\n        </div>\n    </div>\n</section>",
           "_cid": "qXCG4GhSQH",
           "_anchor": "content1-13",
           "_protectedParams": [],
@@ -849,19 +849,18 @@
           "_params": {}
         },
         {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor"
-          },
-          "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://goo.gl/forms/9dDTz1Li7oT3YByZ2\" data-app-placeholder=\"Type Text\" target=\"_blank\">SUBMIT YOUR RESUME</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qXCFUtKATm",
-          "_anchor": "content8-11",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<center>\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLSczaf-AESLu0Y97d4stjVsHpyubKjqMlykymrgDRY3Lc3erNw/viewform?embedded=true\" width=\"640\" height=\"2303\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading...</iframe></center>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-30",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {
@@ -5122,19 +5121,18 @@
           "_params": {}
         },
         {
-          "_styles": {
-            "padding-top": "(@paddingTop * 15px)",
-            "padding-bottom": "(@paddingBottom * 15px)",
-            "background-color": "@bgColor"
-          },
-          "_name": "content8",
-          "_customHTML": "<section class=\"mbr-section content8\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Backgroud Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n\n    <div class=\"container\">\n        <div class=\"media-container-row title\">\n            <div class=\"col-12 col-md-8\">\n                <div class=\"mbr-section-btn align-center\" mbr-buttons mbr-theme-style=\"display-4\" data-toolbar=\"-mbrBtnMove\"><a class=\"btn btn-primary\" href=\"https://goo.gl/forms/GM8LcG20NQTk9q2Y2\" data-app-placeholder=\"Type Text\" target=\"_blank\">SUBMIT YOUR APPLICATION</a></div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_cid": "qXCFUtKATm",
-          "_anchor": "content8-11",
-          "_protectedParams": [],
-          "_global": false,
-          "_once": false,
-          "_params": {}
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<center>\n<iframe src=\"https://docs.google.com/forms/d/e/1FAIpQLScQCYrvz1eRmzkZdW5kx21RgCnmRt3G7nKPQ9R94u_JuxBBqw/viewform?embedded=true\" width=\"640\" height=\"1482\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\">Loading...</iframe></center>",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-2z",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
         },
         {
           "_styles": {

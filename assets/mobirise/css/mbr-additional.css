@@ -1988,17 +1988,24 @@ body {
 }
 .cid-qXCG4GhSQH {
   padding-top: 0px;
-  padding-bottom: 0px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-qXCG4GhSQH .mbr-text,
 .cid-qXCG4GhSQH blockquote {
   color: #767676;
 }
-.cid-qXCFUtKATm {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+#custom-html-30 {
+  /* Type valid CSS here */
+}
+#custom-html-30 div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-30 p {
+  font-size: 60px;
+  color: #777;
 }
 .cid-qXComo67bC .navbar {
   background: #ffffff;
@@ -5581,10 +5588,17 @@ body {
 .cid-qXCEWw20Oh .mbr-section-subtitle {
   color: #767676;
 }
-.cid-qXCFUtKATm {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
+#custom-html-2z {
+  /* Type valid CSS here */
+}
+#custom-html-2z div {
+  padding: 80px 0;
+  color: #777;
+  text-align: center;
+}
+#custom-html-2z p {
+  font-size: 60px;
+  color: #777;
 }
 .cid-qXComo67bC .navbar {
   background: #ffffff;
