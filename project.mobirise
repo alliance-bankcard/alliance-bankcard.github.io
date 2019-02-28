@@ -6744,8 +6744,8 @@
         {
           "_customTemplate": true,
           "_afterNavbarItem": false,
-          "_customHTML": "<!-- Type valid HTML here -->\n\n<center> \n<div id=\"my-store-1496126\"></div>\n<div>\n<script data-cfasync=\"false\" type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?1496126&amp;data_platform=code&amp;data_date=2019-02-28\" charset=\"utf-8\"></script><script type=\"text/javascript\"> xProductBrowser(\"categoriesPerRow=3\",\"views=grid(20,3) list(60) table(60)\",\"categoryView=grid\",\"searchView=list\",\"id=my-store-1496126\");</script>\n</div></center>",
-          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\np {\n  font-size: 60px;\n  color: #777;\n}",
+          "_customHTML": "<!-- Type valid HTML here -->\n<table><tbody><tr><th><div id=\"my-store-1496126\"></div>\n<div><script type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?1496126&amp;data_platform=code&amp;data_date=2016-02-26\" charset=\"utf-8\">\n</script><script type=\"text/javascript\">\nxProductBrowser(\"categoriesPerRow=3\",\"views=grid(3,3) list(10) table(20)\",\"categoryView=grid\",\"searchView=list\",\"id=my-store-1496126\");\n</script></div></th><th><div id=\"my-cart-1496126\"></div>\n<div><script type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?1496126\" charset=\"utf-8\">\n</script> <!-- remove layout parameter if you want to position minicart yourself -->\n<script type=\"text/javascript\">\nxMinicart(\"layout=attachToCategories\", \"id=my-cart-1496126\"); \n</script></div>\n</th></tr></tbody></table>\n",
+          "_customCSS": "/* Type valid CSS here */\n\ndiv {\n  padding: 80px 0;\n  color: #777;\n  text-align: center;\n}\n/* Comment out P tag \np {\n  font-size: 60px;\n  color: #777;\n}\n Comment out P tag */",
           "alias": "code-editor",
           "_tags": [
             "Extension"
@@ -6754,8 +6754,10 @@
           "_anchor": "custom-html-2y",
           "_PHPplaceholders": [],
           "_JSplaceholders": [
-            "<script data-cfasync=\"false\" type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?1496126&amp;data_platform=code&amp;data_date=2019-02-28\" charset=\"utf-8\"></script>",
-            "<script type=\"text/javascript\"> xProductBrowser(\"categoriesPerRow=3\",\"views=grid(20,3) list(60) table(60)\",\"categoryView=grid\",\"searchView=list\",\"id=my-store-1496126\");</script>"
+            "<script type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?1496126&amp;data_platform=code&amp;data_date=2016-02-26\" charset=\"utf-8\">\n</script>",
+            "<script type=\"text/javascript\">\nxProductBrowser(\"categoriesPerRow=3\",\"views=grid(3,3) list(10) table(20)\",\"categoryView=grid\",\"searchView=list\",\"id=my-store-1496126\");\n</script>",
+            "<script type=\"text/javascript\" src=\"https://app.ecwid.com/script.js?1496126\" charset=\"utf-8\">\n</script>",
+            "<script type=\"text/javascript\">\nxMinicart(\"layout=attachToCategories\", \"id=my-cart-1496126\"); \n</script>"
           ]
         },
         {

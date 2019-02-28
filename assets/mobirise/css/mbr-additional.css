@@ -6994,15 +6994,17 @@ body {
 }
 #custom-html-2y {
   /* Type valid CSS here */
+  /* Comment out P tag 
+p {
+  font-size: 60px;
+  color: #777;
+}
+ Comment out P tag */
 }
 #custom-html-2y div {
   padding: 80px 0;
   color: #777;
   text-align: center;
-}
-#custom-html-2y p {
-  font-size: 60px;
-  color: #777;
 }
 .cid-rjnZwx3sK1 {
   padding-top: 60px;
