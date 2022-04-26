@@ -35,18 +35,31 @@
     },
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
-    "siteFonts": [],
+    "siteFonts": [
+      {
+        "css": "'Rubik', sans-serif",
+        "name": "Rubik",
+        "url": "https://fonts.googleapis.com/css?family=Rubik:300,400,500,600,700,800,900,300i,400i,500i,600i,700i,800i,900i"
+      }
+    ],
     "uniqCompNum": 107,
-    "versionPublish": "4.9.7",
+    "versionPublish": "5.3.10",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": false,
     "noImageResize": "",
-    "google-analytics": "<!-- Google Analytics -->\r\n<script>\r\nwindow.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;\r\nga('create', 'UA-12532794-1', 'auto');\r\nga('send', 'pageview');\r\n</script>\r\n<script async src='https://www.google-analytics.com/analytics.js'></script>\r\n<!-- End Google Analytics -->",
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=G-19XZ76J9RG\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'G-19XZ76J9RG');\n</script>",
     "сanonical-url": "",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
     "robotsSwitcher": "on",
-    "siteUrl": "",
-    "sitemapSwitcherAuto": "on"
+    "siteUrl": false,
+    "sitemapSwitcherAuto": "on",
+    "canonical-url": "",
+    "imageResize": true,
+    "sitemapSwitcher": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "publishChangesOnly": false,
+    "mbrsiteDomain": "vwculsbcxg"
   },
   "pages": {
     "index.html": {
